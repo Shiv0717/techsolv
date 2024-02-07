@@ -1,0 +1,155 @@
+@media (max-width:600px){
+    #page3{
+        flex-direction: column;
+    }
+    
+    #box1{
+        width: 100%;
+        height: 30vh;
+    }
+    img{
+        width:100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    #box2{
+        width: 100%;
+        height: 30vh;
+    }
+    .one{
+        align-items: center;
+        text-align: center;
+    }
+    .one>h4{
+        font-size: 15px;
+    }
+    .one>p{
+        font-size: 10px;
+    }
+    .two{
+       flex-direction: row;
+       justify-content: center;
+    }
+    .min-one>img{
+        width: 30px;
+        height: 30px;
+    }
+    .min-two>img{
+        width: 30px;
+        height: 30px;
+    }
+    .min-three>img{
+        width: 30px;
+        height: 30px;
+    }
+    .clarity>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .Confidence>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .Community>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    #whole{
+        gap: 20px;
+    }
+    .min-one{
+        display: flex;
+        gap: 0px;
+    }
+    .min-two{
+        display: flex;
+        gap: 0px;
+    }
+    .min-three{
+        display: flex;
+        gap: 0px;
+    }
+    #box3{
+        width: 100%;
+        height: 30vh;
+    }
+    #box4{
+        width: 100%;
+        height: 30vh;
+    }
+    #three{
+        align-items: center;
+        text-align: center;
+    }
+    #three>h4{
+        font-size: 15px;
+    }
+    #four{
+        flex-direction: row;
+        justify-content: center;
+     }
+     .Buying>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .High>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .Growing>p{
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .Buying>h6{
+        font-size: 8px;
+        font-weight: 300;
+    }
+    .High>h6{
+        font-size: 8px;
+        font-weight: 300;
+    }
+    .Growing>h6{
+        font-size: 8px;
+        font-weight: 300;
+    }
+    #page4{
+        flex-direction: column;
+        align-items: center;
+    }
+    .nav-2{
+        display: none;
+    }
+    footer{
+        display: none;
+    }
+    #details{
+        display: none;
+    }
+    #sub-footer{
+        height: 5%;
+       position: relative;
+       top: 30%;
+       font-size: 10px;
+    }
+    #page1{
+        height: 50%;
+        text-align: center;
+    }
+    #desc>p{
+        position: relative;
+        top: 15%;
+        font-size: 15px;
+    }
+    #view{
+        position: absolute;
+        top:41%;
+    }
+    #desc>h2{
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .nav-1>img{
+        width: 140px;
+   }
+   
+}
